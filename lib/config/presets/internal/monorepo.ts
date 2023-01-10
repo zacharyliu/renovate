@@ -9,6 +9,7 @@ const repoGroups = {
   'ag-grid': 'https://github.com/ag-grid/ag-grid',
   'algolia-react-instantsearch':
     'https://github.com/algolia/react-instantsearch',
+  'algolia-instantsearch': 'https://github.com/algolia/instantsearch',
   'algoliasearch-autocomplete': 'https://github.com/algolia/autocomplete',
   'algoliasearch-client-javascript':
     'https://github.com/algolia/algoliasearch-client-javascript',
